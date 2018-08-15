@@ -1,0 +1,19 @@
+{
+  "name": "foodmeatstummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngudbranson/FoodMeatsTummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngudbranson/FoodMeatsTummy/issues"
+  },
+  "homepage": "https://github.com/ngudbranson/FoodMeatsTummy#readme"
+}
