@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+config.js
+node_modules
+*.config.js
+spec
+package-lock.json
